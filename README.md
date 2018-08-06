@@ -3,7 +3,7 @@
 [![XOOPS CMS Module](https://img.shields.io/badge/XOOPS%20CMS-Module-blue.svg)](https://xoops.org)
 [![Software License](https://img.shields.io/badge/license-GPL-brightgreen.svg?style=flat)](http://www.gnu.org/licenses/gpl-2.0.html)
 
-[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/mambax7/cardealer.svg?style=flat)](https://scrutinizer-ci.com/g/mambax7/cardealer/?branch=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/mambax7/cardealer/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/mambax7/cardealer/?branch=master)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/52eac09cbab1465892624b96ba110ff8)](https://www.codacy.com/app/mambax7/cardealer)
 [![Code Climate](https://img.shields.io/codeclimate/github/mambax7/cardealer.svg?style=flat)](https://codeclimate.com/github/mambax7/cardealer)
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/67dff878-c997-4264-a709-7dede15759d6/mini.png)](https://insight.sensiolabs.com/projects/67dff878-c997-4264-a709-7dede15759d6)
