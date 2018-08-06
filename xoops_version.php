@@ -410,7 +410,7 @@ $modversion['config'][] = [
     'description' => 'MI_CARDEALER_SHOW_SAMPLE_BUTTON_DESC',
     'formtype'    => 'yesno',
     'valuetype'   => 'int',
-    'default'     => 0,
+    'default'     => 1,
 ];
 
 // -------------- Notifications cardealer --------------
