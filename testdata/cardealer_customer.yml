@@ -1,0 +1,12 @@
+-
+    custnum: '1'
+    custname: 'Joe Doe'
+    custaddr: '<p>Los Angeles, CA</p>'
+-
+    custnum: '2'
+    custname: 'Steve Jones'
+    custaddr: '<p>Chicago, IL</p>'
+-
+    custnum: '3'
+    custname: 'John Smith'
+    custaddr: '<p>New York, NY</p>'

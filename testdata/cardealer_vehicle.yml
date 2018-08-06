@@ -1,0 +1,80 @@
+-
+    id: '1'
+    custnum: '1'
+    make: Ford
+    model: Fiesta
+    year: '2010'
+    pictures: FordFocusEcoBoost.jpg
+    serialnum: '2147483647'
+-
+    id: '2'
+    custnum: '2'
+    make: Audi
+    model: A8
+    year: '2017'
+    pictures: audi82017.jpg
+    serialnum: '2147483647'
+-
+    id: '3'
+    custnum: '3'
+    make: Mazda
+    model: 'Mazda 3'
+    year: '2017'
+    pictures: mazda3Hatchback.jpg
+    serialnum: '2147483647'
+-
+    id: '4'
+    custnum: '1'
+    make: Mazda
+    model: 'Mazda 3'
+    year: '2017'
+    pictures: mazda3Hatchback.jpg
+    serialnum: '2147483647'
+-
+    id: '5'
+    custnum: '2'
+    make: Audi
+    model: A8
+    year: '2017'
+    pictures: audi82017.jpg
+    serialnum: '2147483647'
+-
+    id: '6'
+    custnum: '3'
+    make: Ford
+    model: Fiesta
+    year: '2010'
+    pictures: FordFocusEcoBoost.jpg
+    serialnum: '2147483647'
+-
+    id: '7'
+    custnum: '1'
+    make: Audi
+    model: A8
+    year: '2017'
+    pictures: audi82017.jpg
+    serialnum: '2147483647'
+-
+    id: '8'
+    custnum: '1'
+    make: Audi
+    model: A8
+    year: '2017'
+    pictures: audi82017.jpg
+    serialnum: '2147483647'
+-
+    id: '9'
+    custnum: '2'
+    make: Ford
+    model: Fiesta
+    year: '2010'
+    pictures: FordFocusEcoBoost.jpg
+    serialnum: '2147483647'
+-
+    id: '10'
+    custnum: '2'
+    make: Audi
+    model: A8
+    year: '2017'
+    pictures: audi82017.jpg
+    serialnum: '2147483647'
